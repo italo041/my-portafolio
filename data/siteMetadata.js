@@ -1,13 +1,13 @@
 const siteMetadata = {
   title: 'Italo Bejarano',
   author: 'Italo Bejarano',
-  headerTitle: 'My portfolio',
+  headerTitle: 'Italo Bejarano',
   description:
     'Eu laborum commodo eiusmod tempor amet pariatur. Irure et ex pariatur do culpa adipisicing irure dolore id dolore ea consequat. Occaecat mollit nostrud aliquip minim incididunt dolore. Eiusmod laborum Lorem commodo fugiat reprehenderit cupidatat sint. Veniam culpa magna nostrud esse ullamco pariatur do consectetur sunt id sint elit consectetur. Mollit eiusmod Lorem veniam occaecat.',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/code.png',
   image: '/static/images/profile.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'bitalofernando@gmail.com',

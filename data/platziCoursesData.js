@@ -38,6 +38,13 @@ const platziCoursesData = [
     href:
       'https://platzi.com/p/fernando-bejarano-gonzales/curso/2507-backend-nodejs-postgres/diploma/detalle/',
   },
+  {
+    title: 'Curso de Node.js: Autenticación, Microservicios y Redis',
+    imgSrc:
+      '/static/platzi/piezas-nodejs-autenticacion-microservicios-redis_badge-754d4f34-9282-4793-a68e-4058.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/1767-nodejs-microservicios/diploma/detalle/',
+  },
 ]
 
 export default platziCoursesData

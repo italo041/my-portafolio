@@ -2,7 +2,7 @@
 name: Italo Bejarano
 avatar: /static/images/profile.jpg
 occupation: Backend Developer
-company: Diverso Latam
+company:
 email: bitalofernando@gmail.com
 linkedin: https://www.linkedin.com/in/italo-fernando-bejarano-gonzales-a2663a1a8/
 github: https://github.com/italo041
