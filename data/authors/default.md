@@ -1,12 +1,11 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Italo Bejarano
+avatar: /static/images/profile.jpg
+occupation: Backend Developer
+company: Diverso Latam
+email: bitalofernando@gmail.com
+linkedin: https://www.linkedin.com/in/italo-fernando-bejarano-gonzales-a2663a1a8/
+github: https://github.com/italo041
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
