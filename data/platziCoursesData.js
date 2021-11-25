@@ -45,6 +45,29 @@ const platziCoursesData = [
     href:
       'https://platzi.com/p/fernando-bejarano-gonzales/curso/1767-nodejs-microservicios/diploma/detalle/',
   },
+  {
+    title: 'Curso de Backend con NestJS',
+    imgSrc: '/static/platzi/badge-backend-nestjs-1409a1f0-34ad-495b-8144-14be0c0f0232.webp',
+    href: 'https://platzi.com/p/fernando-bejarano-gonzales/curso/2272-nestjs/diploma/detalle/',
+  },
+  {
+    title: 'Curso de NestJS: Programación Modular',
+    imgSrc: '/static/platzi/badge-programacionmod-601a4224-0aa1-4738-b545-8050df95f6f7.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/2274-nestjs-modular/diploma/detalle/',
+  },
+  {
+    title: 'Curso de NestJS: Persistencia de Datos con TypeORM',
+    imgSrc:
+      '/static/platzi/badge-nestjs-persistencia-datos-typeorm-4af39f3f-c81c-4d5c-b210-b40ebf382041.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/2282-nestjs-typeorm/diploma/detalle/',
+  },
+  {
+    title: 'Curso de NestJS: Autenticación con Passport y JWT',
+    imgSrc: '/static/platzi/badge-nestjs-au-pass-jwt-63da7bbd-9090-468c-9464-e14e60d4e5f4.webp',
+    href: 'https://platzi.com/p/fernando-bejarano-gonzales/curso/2283-nestjs-auth/diploma/detalle/',
+  },
 ]
 
 export default platziCoursesData
