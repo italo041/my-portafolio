@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Italo Bejarano',
   author: 'Italo Bejarano',
-  headerTitle: 'Italo Bejarano',
+  headerTitle: 'ItaloBejarano.com',
   description: '',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
