@@ -8,7 +8,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/code.png',
   image: '/static/images/profile.jpg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/banner.webp',
   email: 'bitalofernando@gmail.com',
   github: 'https://github.com/italo041',
   linkedin: 'https://www.linkedin.com/in/italo-fernando-bejarano-gonzales-a2663a1a8/',
