@@ -1,38 +1,18 @@
 ---
-title: Sample .md file
-date: '2016-03-08'
-tags: ['markdown', 'code', 'features']
+title: Etapas del proceso de desarrollo de un software en una metodología tradicional
+date: '2021-11-26'
+tags: ['etapas', 'desarrollo', 'proceso', 'arquitectura', 'software', 'cascada', 'metodologia']
 draft: false
-summary: Example of a markdown file with code blocks and syntax highlighting
+summary: Las etapas del proceso del desarrollo de software en una metodología tradicional...
 ---
 
-A sample post with markdown.
+Las etapas del proceso del desarrollo de software en una metodología tradicional siguen un flujo lineal y cada una llegaría a ser la entrada de la otra.
+La etapa de analisis de requerimiento nace con un "disparador", la cual es una idea, un problema a resolver o un análisis de mercado que te da la necesidad de crear un sistema.
 
-## Inline Highlighting
+## Etapas
 
-Sample of inline highlighting `sum = parseInt(num1) + parseInt(num2)`
+| Análisis de Requerimiento                                                                                                                                                                     | Diseño de la Solución                                                                                                                                      | Desarrollo y Evaluación                                                                                                   | Despliegue                                                                                                                                                                                                     | Mantenimiento y Evolución                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Se evalúa que es lo que se tiene que construir. Se construye los requerimientos funcionales y no funcionales y el resultado es la obtención de una comprensión clara del problema a resolver. | Se realiza una análisis profundo del problema y una propuesta de solución. El resultado es un detalle de la solución en el formato que tenga que ser dado. | Se realiza el desarrollo y el testing de acuerdo a los criterios de aceptación. El resultado es un artefacto de software. | El artefacto de software se utiliza en el despliegue para poder brindárselo al usuario final. Se necesitara de una infraestructura para la realización de operaciones. El resultado es un software disponible. | Se detectan errores y mantenimiento. Se mantiene el software hasta que se decida que ya no es necesario. Una vez terminado se termina el ciclo de vida del software. |
 
-## Code Blocks
-
-Some Javascript code
-
-```javascript
-var num1, num2, sum
-num1 = prompt('Enter first number')
-num2 = prompt('Enter second number')
-sum = parseInt(num1) + parseInt(num2) // "+" means "add"
-alert('Sum = ' + sum) // "+" means combine into a string
-```
-
-Some Python code 🐍
-
-```python
-def fib():
-    a, b = 0, 1
-    while True:            # First iteration:
-        yield a            # yield 0 to start with and then
-        a, b = b, a + b    # a will now be 1, and b will also be 1, (0 + 1)
-
-for index, fibonacci_number in zip(range(10), fib()):
-     print('{i:3}: {f:3}'.format(i=index, f=fibonacci_number))
-```
+![ocean](/static/images/cascada.webp)

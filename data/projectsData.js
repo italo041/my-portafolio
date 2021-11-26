@@ -33,7 +33,7 @@ const projectsData = [
     title: 'Marvel landing',
     description: `Sistema web marvel`,
     imgSrc: '/static/projects/marvel.gif',
-    href: 'https://italo041.github.io/heroes-app/marvel',
+    href: 'https://italo041.github.io/heroes-app/',
   },
   {
     title: 'Notes app',
