@@ -3,7 +3,7 @@ title: Roles en metodologías ágiles y tradicionales
 date: '2021-11-28'
 tags: ['roles', 'metodologia', 'agil', 'tradicional', 'software']
 draft: false
-summary:
+summary: Las metodologías agiles redefinieron los roles involucrados en el desarrollo de software para poder acomodarlos a su filosofía de trabajo...
 ---
 
 Las metodologías agiles redefinieron los roles involucrados en el desarrollo de software para poder acomodarlos a su filosofía de trabajo.

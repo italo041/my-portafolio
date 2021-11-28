@@ -3,7 +3,7 @@ title: Etapas del proceso de desarrollo de un software en una metodología tradi
 date: '2021-11-26'
 tags: ['etapas', 'desarrollo', 'proceso', 'arquitectura', 'software', 'cascada', 'metodologia']
 draft: false
-summary: Las etapas del proceso del desarrollo de software en una metodología tradicional
+summary: Las etapas del proceso del desarrollo de software en una metodología tradicional...
 ---
 
 Las etapas del proceso del desarrollo de software en una metodología tradicional siguen un flujo lineal y cada una llegaría a ser la entrada de la otra.

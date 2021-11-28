@@ -3,7 +3,7 @@ title: Dificultades en el desarrollo de software
 date: '2021-11-27'
 tags: ['dificultades', 'desarrollo', 'problemas', 'arquitectura', 'software']
 draft: false
-summary: En la etapa de diseño y desarrollo de software nos concentramos en encontrar las dificultades para poder resolverlas
+summary: En la etapa de diseño y desarrollo de software nos concentramos en encontrar las dificultades para poder resolverlas...
 ---
 
 En la etapa de diseño y desarrollo de software nos concentramos en encontrar las dificultades para poder resolverlas.
