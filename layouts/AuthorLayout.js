@@ -8,12 +8,29 @@ export default function AuthorLayout({ children, frontMatter }) {
   return (
     <>
       <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
-      <div className="divide-y animate__animated animate__fadeIn">
+      <div className="container">
+        <div className="bird-container bird-container--one">
+          <div className="bird bird--one"></div>
+        </div>
+
+        <div className="bird-container bird-container--two">
+          <div className="bird bird--two"></div>
+        </div>
+
+        <div className="bird-container bird-container--three">
+          <div className="bird bird--three"></div>
+        </div>
+
+        <div className="bird-container bird-container--four">
+          <div className="bird bird--four"></div>
+        </div>
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             About
           </h1>
         </div>
+      </div>
+      <div className="divide-y animate__animated animate__fadeIn">
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
           <div className="flex flex-col items-center pt-8 space-x-2">
             <Image

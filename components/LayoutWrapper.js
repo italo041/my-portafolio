@@ -20,7 +20,7 @@ const LayoutWrapper = ({ children }) => {
                   <img src="/static/images/code.png" className="logo" />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
-                  <div className="hidden h-6 text-2xl font-semibold sm:block">
+                  <div className="hidden h-6 text-2xl font-semibold xl:block">
                     {siteMetadata.headerTitle}
                   </div>
                 ) : (
@@ -30,7 +30,7 @@ const LayoutWrapper = ({ children }) => {
             </Link>
           </div>
           <div className="flex items-center text-base leading-5">
-            <div className="hidden sm:block">
+            <div className="hidden md:block">
               {headerNavLinks.map((link) => (
                 <Link
                   key={link.title}
