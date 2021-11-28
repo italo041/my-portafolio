@@ -8,7 +8,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/italo041/my-portafolio',
   siteLogo: '/static/images/code.png',
   image: '/static/images/profile.jpg',
-  socialBanner: '/static/images/banner.webp',
+  socialBanner: '/static/images/banner.jpg',
   email: 'bitalofernando@gmail.com',
   github: 'https://github.com/italo041',
   linkedin: 'https://www.linkedin.com/in/italo-fernando-bejarano-gonzales-a2663a1a8/',
