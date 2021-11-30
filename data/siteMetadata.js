@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'Italo Bejarano',
   author: 'Italo Bejarano',
   headerTitle: 'ItaloBejarano.com',
-  description: '',
+  description:
+    'Blogs sobre lenguajes de programación, desarrollo backend, arquitectura de software y más.',
   language: 'en-us',
   siteUrl: 'https://italobejarano.com',
   siteRepo: 'https://github.com/italo041/my-portafolio',
