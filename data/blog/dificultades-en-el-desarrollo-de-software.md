@@ -17,7 +17,7 @@ Las dividimos en dos tipos de dificultades:
   - **Complejidad:** Cuando un dominio de un problema es complejo en si mismo. _Ejm: El calcular la mejor ruta entre ciudades debido a que requiere de muchas variables y cálculos para realizarlo._
   - **Conformidad:** ¿En que contexto se usara el software y como se adecuará al contexto? _Ejm: ¿Se tendrá disponibilidad de internet en todo momento?_
   - **Tolerancia al cambio:** Una vez terminado el software. _¿Podrá cambiarse o será muy dificil de cambiar?_
-  - **Invisivilidad:** Trabajar con software es dificil ya que no es tangible y lo que lo hace dificil al no ser tangible es entender en todo momento su forma, ya que está plasmada en código, infraestructura, decisiones que quedaron plasmadas en documentos, etc.
+  - **Invisibilidad:** Trabajar con software es dificil ya que no es tangible y lo que lo hace dificil al no ser tangible es entender en todo momento su forma, ya que está plasmada en código, infraestructura, decisiones que quedaron plasmadas en documentos, etc.
 
 - **Accidentales:** Tiene que ver con la plataforma en la que se implementará, la tecnología que se usará, el lenguaje con el que se desarollará, los frameworks, integraciones, etc.
 
