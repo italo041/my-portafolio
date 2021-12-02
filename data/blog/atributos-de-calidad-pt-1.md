@@ -1,7 +1,7 @@
 ---
 title: Atributos de calidad en el software - Parte 1
 date: '2021-12-01'
-tags: ['atributos', 'calidad', 'software']
+tags: ['atributos', 'calidad', 'software', 'arquitectura']
 draft: false
 summary: Es un concepto que conecta lo que el usuario quiere realizar (tareas u objetivos que tengan que resolver con un sistema) y el cómo están implementadas funcionalmente en dicho sistema...
 ---
