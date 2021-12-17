@@ -54,7 +54,7 @@ export const ParticlesComponent = () => {
         },
         particles: {
           color: {
-            value: '#ffc700',
+            value: '#ffffff',
           },
           links: {
             color: {

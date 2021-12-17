@@ -1,17 +1,17 @@
 const platziCoursesData = [
-  {
-    title: 'Curso de Introducción al Desarrollo Backend',
-    imgSrc:
-      '/static/platzi/badge-introduccion-desarrollo-backend-c9d6cd7f-4de1-42a5-b9c5-2c014b6bfce9.webp',
-    href:
-      'https://platzi.com/p/fernando-bejarano-gonzales/curso/2508-introduccion-backend/diploma/detalle/',
-  },
-  {
-    title: 'Curso de Fundamentos de Node.js',
-    imgSrc: '/static/platzi/badge-fundamentos-nodejs-8fd9c0f4-562a-48e9-a85a-3a7db0fa384b.webp',
-    href:
-      'https://platzi.com/p/fernando-bejarano-gonzales/curso/1759-fundamentos-node/diploma/detalle/',
-  },
+  // {
+  //   title: 'Curso de Introducción al Desarrollo Backend',
+  //   imgSrc:
+  //     '/static/platzi/badge-introduccion-desarrollo-backend-c9d6cd7f-4de1-42a5-b9c5-2c014b6bfce9.webp',
+  //   href:
+  //     'https://platzi.com/p/fernando-bejarano-gonzales/curso/2508-introduccion-backend/diploma/detalle/',
+  // },
+  // {
+  //   title: 'Curso de Fundamentos de Node.js',
+  //   imgSrc: '/static/platzi/badge-fundamentos-nodejs-8fd9c0f4-562a-48e9-a85a-3a7db0fa384b.webp',
+  //   href:
+  //     'https://platzi.com/p/fernando-bejarano-gonzales/curso/1759-fundamentos-node/diploma/detalle/',
+  // },
   {
     title: 'Curso de Node.js: Base de Datos con MongoDB y WebSockets',
     imgSrc:
@@ -67,6 +67,29 @@ const platziCoursesData = [
     title: 'Curso de NestJS: Autenticación con Passport y JWT',
     imgSrc: '/static/platzi/badge-nestjs-au-pass-jwt-63da7bbd-9090-468c-9464-e14e60d4e5f4.webp',
     href: 'https://platzi.com/p/fernando-bejarano-gonzales/curso/2283-nestjs-auth/diploma/detalle/',
+  },
+  {
+    title: 'Fundamentos de Arquitectura de Software',
+    imgSrc: '/static/platzi/1247-4f5b5d04-4b56-4e64-bec2-db8fe3c0aa18.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/1247-arquitectura-software/diploma/detalle/',
+  },
+  {
+    title: 'Curso Profesional de Arquitectura de Software',
+    imgSrc: '/static/platzi/1248-8cdbdf8f-aaa1-4752-91c9-13083dab983e.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/1248-pro-arquitectura/diploma/detalle/',
+  },
+  {
+    title: 'Curso Práctico de Arquitectura Backend',
+    imgSrc: '/static/platzi/practico-backend__badge-19d102ce-2ac1-42b7-9cf1-50b1c4c082ae.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/2164-practico-backend/diploma/detalle/',
+  },
+  {
+    title: 'Curso de FastAPI: Fundamentos, Path Operations y Validaciones',
+    imgSrc: '/static/platzi/artboard-610-5afc949a-1c64-47ce-836c-7aef905b8555.webp',
+    href: 'https://platzi.com/p/fernando-bejarano-gonzales/curso/2513-fastapi/diploma/detalle/',
   },
 ]
 
