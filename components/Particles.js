@@ -67,7 +67,7 @@ export const ParticlesComponent = () => {
             density: {
               enable: true,
             },
-            value: 100,
+            value: 1000,
           },
           opacity: {
             random: {
@@ -88,7 +88,7 @@ export const ParticlesComponent = () => {
               enable: true,
             },
             value: {
-              min: 0.5,
+              min: 0.1,
               max: 1.5,
             },
             animation: {
