@@ -18,10 +18,22 @@ const projectsData = [
     href: 'https://miproposito.edu.pe/auth/regular',
   },
   {
-    title: 'Wheater app',
-    description: `Sistema web para obtener la temperatura`,
-    imgSrc: '/static/projects/weather.png',
-    href: 'https://weather-website-nodejs-n.herokuapp.com/',
+    title: 'Covid Tracker',
+    description: `Tracker de covid`,
+    imgSrc: '/static/projects/covid19-tracker.jpg',
+    href: 'https://covid19-tracker-5d029.firebaseapp.com/',
+  },
+  {
+    title: 'Covid 19 Vaccines',
+    description: `Dashboard de vacunación del covid`,
+    imgSrc: '/static/projects/vaccines.jpg',
+    href: 'https://covid19-vaccines.web.app/',
+  },
+  {
+    title: 'Poke Api',
+    description: `Uso del api de pokemon`,
+    imgSrc: '/static/projects/pokemon.gif',
+    href: 'https://italo041.github.io/poke-api/',
   },
   {
     title: 'Gift app',
@@ -36,22 +48,16 @@ const projectsData = [
     href: 'https://italo041.github.io/heroes-app/',
   },
   {
-    title: 'Notes app',
-    description: `Sistema web de notas`,
-    imgSrc: '/static/projects/notes-app.png',
-    href: 'https://italo041.github.io/journal-app/',
-  },
-  {
     title: 'Chat app',
     description: `Sistema web de chat con sockets`,
     imgSrc: '/static/projects/chat.jpg',
     href: 'https://chat-app-nando.herokuapp.com/',
   },
   {
-    title: 'Poke Api',
-    description: `Uso del api de pokemon`,
-    imgSrc: '/static/projects/pokemon.gif',
-    href: 'https://italo041.github.io/poke-api/',
+    title: 'Wheater app',
+    description: `Sistema web para obtener la temperatura`,
+    imgSrc: '/static/projects/weather.png',
+    href: 'https://weather-website-nodejs-n.herokuapp.com/',
   },
   {
     title: 'Omdb Api',
@@ -60,16 +66,10 @@ const projectsData = [
     href: 'https://italo041.github.io/omdb-api/',
   },
   {
-    title: 'Covid Tracker',
-    description: `Tracker de covid`,
-    imgSrc: '/static/projects/covid19-tracker.jpg',
-    href: 'https://covid19-tracker-5d029.firebaseapp.com/',
-  },
-  {
-    title: 'Covid 19 Vaccines',
-    description: `Dashboard de vacunación del covid`,
-    imgSrc: '/static/projects/vaccines.jpg',
-    href: 'https://covid19-vaccines.web.app/',
+    title: 'Notes app',
+    description: `Sistema web de notas`,
+    imgSrc: '/static/projects/notes-app.png',
+    href: 'https://italo041.github.io/journal-app/',
   },
 ]
 
