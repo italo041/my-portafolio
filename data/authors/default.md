@@ -8,15 +8,17 @@ linkedin: https://www.linkedin.com/in/italo-fernando-bejarano-gonzales-a2663a1a8
 github: https://github.com/italo041
 ---
 
-Hola!
-
-Soy desarrollador de software con experiencia en el lado backend.
-
-Las tecnologías que conozco son las siguientes:
-
-- Express
-- NestJS
-- MySQL
-- MongoDB
-
-Me interesa la informática y sobre todo aprender cosas nuevas.
+```json:me.json
+{
+    "name": "Italo Fernando Bejarano Gonzales",
+    "age": 23,
+    "country": "Peru",
+    "hobbies": [
+        "Basquet",
+        "Programación"
+        "Video juegos",
+        "Series y películas",
+    ],
+    "profession": "Ingeniería Informática y Sistemas"
+}
+```
