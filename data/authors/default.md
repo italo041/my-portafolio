@@ -13,12 +13,11 @@ github: https://github.com/italo041
     "name": "Italo Fernando Bejarano Gonzales",
     "age": 23,
     "country": "Peru",
+    "profession": "Ingeniería Informática y Sistemas",
     "hobbies": [
         "Basquet",
         "Programación"
-        "Video juegos",
-        "Series y películas",
+        "Series",
     ],
-    "profession": "Ingeniería Informática y Sistemas"
 }
 ```
