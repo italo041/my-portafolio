@@ -67,7 +67,7 @@ export const ParticlesComponent = () => {
             density: {
               enable: true,
             },
-            value: 1000,
+            value: 250,
           },
           opacity: {
             random: {
