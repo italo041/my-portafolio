@@ -91,6 +91,11 @@ const platziCoursesData = [
     imgSrc: '/static/platzi/artboard-610-5afc949a-1c64-47ce-836c-7aef905b8555.webp',
     href: 'https://platzi.com/p/fernando-bejarano-gonzales/curso/2513-fastapi/diploma/detalle/',
   },
+  {
+    title: 'Curso de Docker',
+    imgSrc: '/static/platzi/badges-fundamentos-docker-c1277cec-3ef7-4557-9f83-2649bec9fe70.webp',
+    href: 'https://platzi.com/p/fernando-bejarano-gonzales/curso/2066-docker/diploma/detalle/',
+  },
 ]
 
 export default platziCoursesData
