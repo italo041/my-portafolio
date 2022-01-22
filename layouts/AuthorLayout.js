@@ -1,7 +1,7 @@
 import SocialIcon from '@/components/social-icons'
 import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
-import { ParticlesComponent } from '@/components/Particles'
+// import { ParticlesComponent } from '@/components/Particles'
 
 export default function AuthorLayout({ children, frontMatter }) {
   const { name, avatar, occupation, company, email, twitter, linkedin, github } = frontMatter
@@ -9,7 +9,7 @@ export default function AuthorLayout({ children, frontMatter }) {
   return (
     <>
       <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
-      <ParticlesComponent />
+      {/* <ParticlesComponent /> */}
       <div className="container">
         <div className="bird-container bird-container--one">
           <div className="bird bird--one"></div>
@@ -28,7 +28,7 @@ export default function AuthorLayout({ children, frontMatter }) {
         </div>
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Sobre mi
+            Sobre mí
           </h1>
         </div>
       </div>

@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://italobejarano.com',
   siteRepo: 'https://github.com/italo041/my-portafolio',
   siteLogo: '/static/images/code.png',
-  image: '/static/images/profile.jpg',
+  image: '/static/images/profile-2.jpg',
   socialBanner: '/static/images/banner.jpg',
   email: 'bitalofernando@gmail.com',
   github: 'https://github.com/italo041',

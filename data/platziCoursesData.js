@@ -1,17 +1,17 @@
 const platziCoursesData = [
-  // {
-  //   title: 'Curso de Introducción al Desarrollo Backend',
-  //   imgSrc:
-  //     '/static/platzi/badge-introduccion-desarrollo-backend-c9d6cd7f-4de1-42a5-b9c5-2c014b6bfce9.webp',
-  //   href:
-  //     'https://platzi.com/p/fernando-bejarano-gonzales/curso/2508-introduccion-backend/diploma/detalle/',
-  // },
-  // {
-  //   title: 'Curso de Fundamentos de Node.js',
-  //   imgSrc: '/static/platzi/badge-fundamentos-nodejs-8fd9c0f4-562a-48e9-a85a-3a7db0fa384b.webp',
-  //   href:
-  //     'https://platzi.com/p/fernando-bejarano-gonzales/curso/1759-fundamentos-node/diploma/detalle/',
-  // },
+  {
+    title: 'Curso de Introducción al Desarrollo Backend',
+    imgSrc:
+      '/static/platzi/badge-introduccion-desarrollo-backend-c9d6cd7f-4de1-42a5-b9c5-2c014b6bfce9.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/2508-introduccion-backend/diploma/detalle/',
+  },
+  {
+    title: 'Curso de Fundamentos de Node.js',
+    imgSrc: '/static/platzi/badge-fundamentos-nodejs-8fd9c0f4-562a-48e9-a85a-3a7db0fa384b.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/1759-fundamentos-node/diploma/detalle/',
+  },
   {
     title: 'Curso de Node.js: Base de Datos con MongoDB y WebSockets',
     imgSrc:
@@ -95,6 +95,12 @@ const platziCoursesData = [
     title: 'Curso de Docker',
     imgSrc: '/static/platzi/badges-fundamentos-docker-c1277cec-3ef7-4557-9f83-2649bec9fe70.webp',
     href: 'https://platzi.com/p/fernando-bejarano-gonzales/curso/2066-docker/diploma/detalle/',
+  },
+  {
+    title: 'Curso Básico de Jenkins',
+    imgSrc: '/static/platzi/badges-jenkins-0073a655-4709-4628-bcad-b4ac569176d4.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/1436-jenkins-basico/diploma/detalle/',
   },
 ]
 

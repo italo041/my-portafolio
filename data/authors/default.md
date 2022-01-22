@@ -1,6 +1,6 @@
 ---
 name: Italo Bejarano
-avatar: /static/images/profile.jpg
+avatar: /static/images/profile-2.jpg
 occupation: Backend Developer
 company:
 email: bitalofernando@gmail.com
