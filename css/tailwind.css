@@ -258,3 +258,7 @@ input:-webkit-autofill:focus {
     transform: translateY(0vh) translateX(110vw) scale(0.45);
   }
 }
+
+.ray {
+  background-image: url('http://www.megghy.com/gif_animate/natura/tuoni/3.gif');
+}
