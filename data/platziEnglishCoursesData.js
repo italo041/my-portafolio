@@ -32,6 +32,13 @@ const platziCoursesData = [
     href:
       'https://platzi.com/p/fernando-bejarano-gonzales/curso/2395-fechas-horas-expresiones-simples/diploma/detalle/',
   },
+  {
+    title: 'Curso de Inglés Básico A2: Preguntas y Respuestas',
+    imgSrc:
+      '/static/platzi/badge-ingles-basico-preguntas-respuestas-copy-b1824b4a-fbb1-4fde-89f1-eac716d3e913.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/course/2394-preguntas-respuestas/diploma/detalle/',
+  },
 ]
 
 export default platziCoursesData
