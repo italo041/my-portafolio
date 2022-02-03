@@ -39,6 +39,13 @@ const platziCoursesData = [
     href:
       'https://platzi.com/p/fernando-bejarano-gonzales/course/2394-preguntas-respuestas/diploma/detalle/',
   },
+  {
+    title: 'Curso de Inglés Básico A2: Horas y Solicitudes',
+    imgSrc:
+      '/static/platzi/badge-curso-ingles-horas-solicitudes-bcd58c8b-893c-4ff3-871e-18b6b0d7cb56.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/course/2396-horas-solicitudes/diploma/detalle/',
+  },
 ]
 
 export default platziCoursesData
