@@ -7,6 +7,12 @@ const platziCoursesData = [
       'https://platzi.com/p/fernando-bejarano-gonzales/curso/2508-introduccion-backend/diploma/detalle/',
   },
   {
+    title: 'Curso de Fundamentos de Bases de Datos',
+    imgSrc:
+      '/static/platzi/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.webp',
+    href: 'https://platzi.com/p/fernando-bejarano-gonzales/course/1566-bd/diploma/detalle/',
+  },
+  {
     title: 'Curso de Fundamentos de Node.js',
     imgSrc: '/static/platzi/badge-fundamentos-nodejs-8fd9c0f4-562a-48e9-a85a-3a7db0fa384b.webp',
     href:
