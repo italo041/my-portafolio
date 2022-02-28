@@ -1,5 +1,17 @@
 const projectsData = [
   {
+    title: 'Administrador de tareas',
+    description: `Sistema administrador de tareas hecho con NestJS, PostgreSQL y React`,
+    imgSrc: '/static/projects/task-management.gif',
+    href: 'https://italo041.github.io/task-management-frontend/#/',
+  },
+  {
+    title: 'Trujillo Salud Primavera',
+    description: `Sistema web para registrar citas médicas`,
+    imgSrc: '/static/projects/salud-primavera.png',
+    href: 'https://trujillo.saludprimavera.com.pe/login',
+  },
+  {
     title: 'Chimbote Salud Primavera',
     description: `Sistema web para registrar citas médicas`,
     imgSrc: '/static/projects/salud-primavera.png',
