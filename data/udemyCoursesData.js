@@ -1,5 +1,10 @@
 const udemyCoursesData = [
   {
+    title: 'NestJS Zero to Hero - Modern TypeScript Back-end Development',
+    imgSrc: '/static/udemy/2053219_e620_2.jpg',
+    href: 'https://www.udemy.com/certificate/UC-fe84c9d3-ebf1-4746-a93c-d00da2021a7e/',
+  },
+  {
     title: 'Serverless Framework Bootcamp: Node.js, AWS & Microservices',
     imgSrc: '/static/udemy/2997692_1f16_7.jpg',
     href: 'https://www.udemy.com/certificate/UC-821c7c3b-6243-4dce-99f5-8cc7182ecd67/',
