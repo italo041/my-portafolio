@@ -46,6 +46,13 @@ const platziCoursesData = [
     href:
       'https://platzi.com/p/fernando-bejarano-gonzales/course/2396-horas-solicitudes/diploma/detalle/',
   },
+  {
+    title: 'Curso de Inglés Básico A2: Adverbios y Sustantivos',
+    imgSrc:
+      '/static/platzi/basic-english-course-a2-adverbs-nouns-badge-e40cd149-56e8-4109-a17d-1a493c6a88b2.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/2422-adverbios-sustantivos/diploma/detalle/',
+  },
 ]
 
 export default platziCoursesData

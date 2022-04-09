@@ -8,16 +8,17 @@ linkedin: https://www.linkedin.com/in/italo-fernando-bejarano-gonzales-a2663a1a8
 github: https://github.com/italo041
 ---
 
+# Hola me llamó Italo 🙋🏼‍♂️ y soy desarrollador backend en NodeJS !
+
 ```json:me.json
 {
-    "name": "Italo Fernando Bejarano Gonzales",
+    "name": "Italo Bejarano",
     "age": 23,
     "country": "Peru",
     "profession": "Ingeniería Informática y Sistemas",
-    "hobbies": [
-        "Basquet",
-        "Programación"
-        "Series",
-    ],
+    "knowledge": ["NodeJS", "Typescript", "Docker", "NestJS",
+    "Git", "MySQL", "MongoDB", "JWT"],
+    "hobbies": ["Basquet", "Programación", "Series"],
+
 }
 ```

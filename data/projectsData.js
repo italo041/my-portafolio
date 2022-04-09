@@ -1,5 +1,35 @@
 const projectsData = [
   {
+    title: 'The best',
+    description: `Mantenimiento y actualización de sitio web inmobiliario`,
+    imgSrc: '/static/projects/the-best.webp',
+    href: 'https://thebest.pe/',
+  },
+  {
+    title: 'Tectonica',
+    description: `Mantenimiento y actualización de sitio web inmobiliario`,
+    imgSrc: '/static/projects/tectonica.png',
+    href: 'https://tectonica.com.pe/',
+  },
+  {
+    title: 'Iab mixx Peru',
+    description: `Mantenimiento y actualización de sistema de evaluación de proyectos publicitarios`,
+    imgSrc: '/static/projects/iabmixx.png',
+    href: 'https://www.iabmixx-peru.com/',
+  },
+  {
+    title: 'Premios Anda',
+    description: `Mantenimiento y actualización de sistema de evaluación de proyectos acerca de marketing, publicidad y comunicación comercial`,
+    imgSrc: '/static/projects/premios-anda.jpg',
+    href: 'https://www.premioanda.pe/#home',
+  },
+  {
+    title: 'Aramsa',
+    description: `Mantenimiento y actualización de sistema de gestión de proyectos de construcción`,
+    imgSrc: '/static/projects/aramsa.png',
+    href: 'https://core.aramsa.pe/iniciar-sesion',
+  },
+  {
     title: 'Administrador de tareas',
     description: `Sistema administrador de tareas hecho con NestJS, PostgreSQL y React`,
     imgSrc: '/static/projects/task-management.gif',
