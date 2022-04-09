@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/italo-fernando-bejarano-gonzales-a2663a1a8
 github: https://github.com/italo041
 ---
 
-# Hola me llamo Italo 🙋🏼‍♂️ y soy desarrollador backend en NodeJS !
+# Hola me llamo Italo 🙋🏼‍♂️ y soy desarrollador backend NodeJS !
 
 ```json:me.json
 {
