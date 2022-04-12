@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Italo Bejarano',
   author: 'Italo Bejarano',
-  headerTitle: 'ItaloBejarano.com',
+  headerTitle: 'ItaloBejarano',
   description:
     'Blogs sobre lenguajes de programación, desarrollo backend, arquitectura de software y más.',
   language: 'en-us',
@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/italo041/my-portafolio',
   siteLogo: '/static/images/code.png',
   image: '/static/images/profile-2.jpg',
-  socialBanner: '/static/images/banner.jpg',
+  socialBanner: '/static/images/cloud.jpg',
   email: 'bitalofernando@gmail.com',
   github: 'https://github.com/italo041',
   linkedin: 'https://www.linkedin.com/in/italo-fernando-bejarano-gonzales-a2663a1a8/',

@@ -19,7 +19,7 @@ const LayoutWrapper = ({ children }) => {
                 <div className="mr-3">
                   {/* <Logo /> */}
                   <span role="img" width="35" height="35" aria-label="emoji" className="text-5xl">
-                    👨🏻‍💻
+                    🐧
                   </span>
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
