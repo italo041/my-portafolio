@@ -7,7 +7,7 @@ const siteMetadata = {
   language: 'en-us',
   siteUrl: 'https://italobejarano.com',
   siteRepo: 'https://github.com/italo041/my-portafolio',
-  siteLogo: '/static/images/code.png',
+  siteLogo: '/static/images/penguin1.png',
   image: '/static/images/profile-2.jpg',
   socialBanner: '/static/images/cloud.jpg',
   email: 'bitalofernando@gmail.com',
