@@ -53,6 +53,13 @@ const platziCoursesData = [
     href:
       'https://platzi.com/p/fernando-bejarano-gonzales/curso/2422-adverbios-sustantivos/diploma/detalle/',
   },
+  {
+    title: 'Curso de Inglés Básico A2: Superlativos y Adverbios',
+    imgSrc:
+      '/static/platzi/badge-curso-superlativos-adverbios-60b86231-fd86-4ffb-a1d4-a7d7752a23fa.webp',
+    href:
+      'https://platzi.com/p/fernando-bejarano-gonzales/curso/2413-superlativos-adverbios/diploma/detalle/',
+  },
 ]
 
 export default platziCoursesData
