@@ -1,17 +1,5 @@
 const projectsData = [
   {
-    title: 'The best',
-    description: `Mantenimiento y actualización de sitio web inmobiliario`,
-    imgSrc: '/static/projects/the-best.webp',
-    href: 'https://thebest.pe/',
-  },
-  {
-    title: 'Tectonica',
-    description: `Mantenimiento y actualización de sitio web inmobiliario`,
-    imgSrc: '/static/projects/tectonica.png',
-    href: 'https://tectonica.com.pe/',
-  },
-  {
     title: 'Iab mixx Peru',
     description: `Mantenimiento y actualización de sistema de evaluación de proyectos publicitarios`,
     imgSrc: '/static/projects/iabmixx.png',
